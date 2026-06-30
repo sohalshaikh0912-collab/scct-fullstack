@@ -1,0 +1,27 @@
+react.js , tailwind css , react icons . 
+
+
+file structure   
+
+component folder 
+Sidebar.jsx 
+BusinessName.jsx
+
+
+pages Folder
+Homepage.jsx
+UpdatedHomePage.jsx
+ProfilePage.jsx
+
+Parties Folder
+PartyDetails.jsx
+VyaparNetwork.jsx
+
+Items Folder
+Items.jsx
+
+Sale.jsx
+
+
+
+

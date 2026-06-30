@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Artificial Intelligence",
+      "discount": "70%",
+      "startDate": "July 1st",
+      "image": "/Ai.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Python Programming",
+      "discount": "40%",
+      "startDate": "August 15th",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=500"
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "discount": "50%",
+      "startDate": "September 1st",
+      "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=500"
+    },
+    {
+      "id": 4,
+      "title": "Data Science & Analytics",
+      "discount": "60%",
+      "startDate": "October 10th",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500"
+    },
+    {
+      "id": 5,
+      "title": "Cybersecurity Essentials",
+      "discount": "45%",
+      "startDate": "November 1st",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500"
+    },
+        {
+      "id": 6,
+      "title": "UI/UX Design Mastery",
+      "discount": "55%",
+      "startDate": "December 5th",
+      "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=500&auto=format&fit=crop"
+    }
+  ]
+}
